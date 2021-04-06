@@ -1,9 +1,7 @@
 ## 👾 Hi there, I'm Bruno! How are you doing?
 
 
-🧑‍💻 I learned that technology can impact people's lives in many ways, especially when combining the ability to solve problems and continuous improvement, so here I am, a 25 years old mechanical engineer with a heart in developing, wanting to learn more about Back End Developer and make the difference.
-
-⚡️ Fun fact: I'm a huge fan of Harry Potter and Star Wars.
+🧑‍💻 I'm a 25 years old mechanical engineer a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunooliveira13/)
 
