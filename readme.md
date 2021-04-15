@@ -22,7 +22,7 @@
 
 ## 🚀 Interested
 
-* I am studying to be a **Back End Developer** so that I'm learning more about with [Alura](https://cursos.alura.com.br/). :blue_heart:
+* I am studying to be a **Back End Developer** so that I'm learning more about with [Alura](https://cursos.alura.com.br/) see my [profile](https://cursos.alura.com.br/user/brunooliveira13). :blue_heart:
 * Interest in working in any system or tool using a Java / Python language;
 * Interest in developing myself in languages / frameworks: Kotlin, React.js, Node.js, Angular;
 * Interested in developing my knowledge on cloud and AWS services.
