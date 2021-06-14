@@ -1,7 +1,7 @@
 ## 👾 Hi there, I'm Bruno! How are you doing?
 
 
-🧑‍💻 I'm a 25 years old mechanical engineer a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
+🧑‍💻 I'm a 26 years old mechanical engineer a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunooliveira13/)
 
