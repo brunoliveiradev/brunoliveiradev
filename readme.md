@@ -3,7 +3,7 @@
 
 🧑‍💻 I'm a 26 years old mechanical engineer a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunooliveira13/)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/)
 
 <br>
 
@@ -30,6 +30,6 @@
 
 
 <!---
-BRUNOOLIVEIRA13/BRUNOOLIVEIRA13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+brunoliveiradev/brunoliveiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
