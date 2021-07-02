@@ -27,13 +27,8 @@
 * Interest in developing myself in languages / frameworks: Kotlin, Quarkus, Micronaut, React.js, Node.js, Angular;
 * Interested in developing my knowledge on cloud and AWS services.
 
-<p align="center">
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=brunoliveiradev&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&theme=blue-green)
-</p>
-
-## 😂 Here is a random joke that'll make you laugh!
+### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
