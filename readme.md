@@ -27,6 +27,7 @@
 * Interest in developing myself in languages / frameworks: Kotlin, Quarkus, Micronaut, React.js, Node.js, Angular;
 * Interested in developing my knowledge on cloud and AWS services.
 
+<br>
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
