@@ -1,5 +1,3 @@
-<p align = rigth>![Profile View Counter](https://komarev.com/ghpvc/?username=brunoliveiradev)</p>
-
 ## 👾 Hi there, I'm Bruno! How are you doing?
 
 
@@ -8,8 +6,6 @@
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/)
 
 <br>
-
-
 
 
 ## **💻 Tech knowledge, always learning** 🧠
