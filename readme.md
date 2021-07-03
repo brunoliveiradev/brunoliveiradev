@@ -1,5 +1,6 @@
 <p align = rigth>
-![Profile View Counter](https://komarev.com/ghpvc/?username=brunoliveiradev)
+ 
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=brunoliveiradev)
 </p>
 
 ## 👾 Hi there, I'm Bruno! How are you doing?
