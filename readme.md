@@ -34,7 +34,7 @@
 
 <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&theme=blue-green)
 
 <!---
 brunoliveiradev/brunoliveiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
