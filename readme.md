@@ -1,3 +1,7 @@
+<p align = rigth>
+![Profile View Counter](https://komarev.com/ghpvc/?username=brunoliveiradev)
+</p>
+
 ## 👾 Hi there, I'm Bruno! How are you doing?
 
 
@@ -33,8 +37,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <br>
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=brunoliveiradev)
 
 <!---
 brunoliveiradev/brunoliveiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
