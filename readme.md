@@ -30,8 +30,6 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&theme=blue-green)
-
 
 <!---
 brunoliveiradev/brunoliveiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
