@@ -15,26 +15,30 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000?logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS-000?logo=CSS3&logoColor=blue)
 
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![JUnit](https://img.shields.io/badge/JUnit%20-%2325A162.svg?logo=cachet&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-000?logo=cachet&logoColor=%20-%2325A162.svg)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku&logoColor=purple)
 ![Git](https://img.shields.io/badge/-GIT-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GITHUB-000?&logo=Github)
 
 
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea)
 ![MVC Architecture](https://img.shields.io/badge/-MVC-000?&logo=MVC)
 ![TDD](https://img.shields.io/badge/-TDD-000?&logo=TDD)
+![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=SOLID)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=SCRUM)
  
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea&logoColor=darkwhite)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+
 
 <br>
 
@@ -48,7 +52,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Micronaut](https://img.shields.io/badge/-Micronaut-000?&logo=MICRONAUT)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90);
 * Interested in developing my knowledge on cloud and AWS services.
 
