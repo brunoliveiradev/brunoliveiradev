@@ -44,7 +44,7 @@
 
 ## 🚀 Interested
 
-* I am studying to be a **Back End Developer** so that I'm learning more about with [Alura](https://www.alura.com.br) see my [profile](https://cursos.alura.com.br/user/brunoliveiradev). :blue_heart:
+* I am studying to be a **Back End Developer** so that I'm learning more about with [Alura](https://www.alura.com.br) see my [profile](https://cursos.alura.com.br/user/brunoliveiradev) and with 'Bootcamp Spring React' by [DevSuperior](https://www.linkedin.com/school/devsuperior/). :blue_heart:
 * Interest in working in any system or tool using a Java / Python language;
 * Interest in developing myself in languages / frameworks: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
