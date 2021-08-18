@@ -44,8 +44,9 @@
 
 ## 🚀 Interested
 
-* I am studying to be a **Back End Developer** so that I'm learning more about with [Alura](https://www.alura.com.br) see my [profile](https://cursos.alura.com.br/user/brunoliveiradev) and with 'Bootcamp Spring React' by [DevSuperior](https://www.linkedin.com/school/devsuperior/). :blue_heart:
-* Interest in working in any system or tool using a Java / Python language;
+* I've always been a great problem solver, passionate about technology and studying, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
+* Today I work as a **Software Engineer**, working in the Back-End with the team in identifying problems and root cause to propose new solutions and features. :blue_heart:
+* 
 * Interest in developing myself in languages / frameworks: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
