@@ -1,7 +1,12 @@
 ## 👾 Hi there, I'm Bruno! How are you doing?
 
 
-🧑‍💻 I'm a 26 years old mechanical engineer a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
+
+✨ I've always been a great problem solver, passionate about technology and studying, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
+
+🧑💻 Today I work as a **Software Engineer**, working in the Back-End with the team in identifying problems and root cause to propose new solutions and features. :blue_heart:
+
+:octocat:	 I'm also a mechanical engineer, a huge fan of Harry Potter ⚡️ and Star Wars 🌑 and more important with a heart in developing, wanting to learn more about back-end development being passionate about challenges, about contributing and wanting to make a difference!
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/)
 
@@ -19,6 +24,8 @@
 
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Microservice](https://img.shields.io/badge/-Microservices-000?&logo=google-cloud&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -44,19 +51,15 @@
 
 ## 🚀 Interested
 
-* I've always been a great problem solver, passionate about technology and studying, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
-* Today I work as a **Software Engineer**, working in the Back-End with the team in identifying problems and root cause to propose new solutions and features. :blue_heart:
-* 
 * Interest in developing myself in languages / frameworks: 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Micronaut](https://img.shields.io/badge/-Micronaut-000?&logo=MICRONAUT)
+![Micronaut](https://img.shields.io/badge/-Micronaut-000?&logo=Micronaut)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90);
 * Interested in developing my knowledge on cloud and AWS services.
-
 
 
 <br>
