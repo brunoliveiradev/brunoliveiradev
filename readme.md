@@ -23,9 +23,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000?logo=CSS3&logoColor=blue)
 
 
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Microservice](https://img.shields.io/badge/-Microservices-000?&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90);
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
