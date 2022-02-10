@@ -25,6 +25,7 @@
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Microservice](https://img.shields.io/badge/-Microservices-000?&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90);
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
@@ -58,8 +59,7 @@
 ![Micronaut](https://img.shields.io/badge/-Micronaut-000?&logo=Micronaut)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90);
-* Interested in developing my knowledge on cloud and AWS services.
+* Interested in developing even more my knowledge on cloud and AWS services.
 
 
 <br>
