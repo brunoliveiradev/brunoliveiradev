@@ -17,10 +17,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-000?logo=CSS3&logoColor=blue)
+
 
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
@@ -29,19 +26,18 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![JUnit](https://img.shields.io/badge/JUnit-000?logo=cachet&logoColor=%20-%2325A162.svg)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku&logoColor=purple)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Git](https://img.shields.io/badge/-GIT-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GITHUB-000?&logo=Github)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=Github)
 
 
-![MVC Architecture](https://img.shields.io/badge/-MVC-000?&logo=MVC)
-![TDD](https://img.shields.io/badge/-TDD-000?&logo=TDD)
-![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=SOLID)
-![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=SCRUM)
+![Hexagonal Architecture](https://img.shields.io/badge/-HexagonalArchitecture-000?&logo=atom)
+![TDD](https://img.shields.io/badge/-TDD-000?&logo=icon)
+![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=solid)
+![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=firebase)
  
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea&logoColor=darkwhite)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
@@ -50,17 +46,7 @@
 
 <br>
 
-## 🚀 Interested
-
-* Interest in developing myself in languages / frameworks: 
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=Quarkus)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Micronaut](https://img.shields.io/badge/-Micronaut-000?&logo=Micronaut)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red)
-* Interested in developing even more my knowledge on cloud and AWS services.
-
+*I am also constantly seeking opportunities for learning and growth.*
 
 <br>
 
