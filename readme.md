@@ -15,8 +15,8 @@
 
 ## **💻 Tech knowledge, always learning** 🧠
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=red)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
 
 
@@ -26,7 +26,8 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL)
-![JUnit](https://img.shields.io/badge/JUnit-000?logo=cachet&logoColor=%20-%2325A162.svg)
+![DynamoDb](https://img.shields.io/badge/-DynamoDB-000?logo=mongodb)
+![JUnit](https://img.shields.io/badge/JUnit5-000?logo=cachet&logoColor=%20-%2325A162.svg)
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -35,11 +36,11 @@
 
 
 ![Hexagonal Architecture](https://img.shields.io/badge/-HexagonalArchitecture-000?&logo=atom)
-![TDD](https://img.shields.io/badge/-TDD-000?&logo=icon)
+![TDD](https://img.shields.io/badge/-TDD-000?&logo=icon&logoColor=green)
 ![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=solid)
-![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=firebase)
+![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=firebase&logoColor=green)
  
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea&logoColor=darkwhite)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellijidea)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 
