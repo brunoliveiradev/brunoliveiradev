@@ -22,6 +22,7 @@
 
 
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-000?&logo=springboot)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apache-kafka)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
@@ -36,20 +37,21 @@
 ![EC2](https://img.shields.io/badge/-EC2-000?&logo=amazonec2&logoColor=F90)
 ![ECS](https://img.shields.io/badge/-ECS-000?&logo=amazonecs&logoColor=F90)
 ![EKS](https://img.shields.io/badge/-EKS-000?&logo=amazoneks&logoColor=F90)
+![ECR](https://img.shields.io/badge/-ECR-000?&logo=serverless&logoColor=F90)
 ![RDS](https://img.shields.io/badge/-RDS-000?&logo=amazonrds&logoColor=F90)
 ![S3](https://img.shields.io/badge/-S3-000?&logo=amazons3&logoColor=F90)
 ![SQS](https://img.shields.io/badge/-SQS-000?&logo=amazonsqs&logoColor=F90)
 
 ![JUnit](https://img.shields.io/badge/JUnit5-000?logo=JUnit5&logoColor=%20-%2325A162.svg)
 ![Mockito](https://img.shields.io/badge/Mockito-000?logo=cachet&logoColor=%20-%2325A162.svg)
-![Sonar](https://img.shields.io/badge/-Sonar-000?&logo=sonar)
+![Sonar](https://img.shields.io/badge/-Sonar-000?&logo=sonarqube)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?&logo=Swagger)
 ![OpenAPI](https://img.shields.io/badge/-OpenAPI-000?&logo=openapiinitiative)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
-![Grafana](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins&logoColor=blue)
 
 ![Microservice](https://img.shields.io/badge/-Microservices-000?&logo=google-cloud&logoColor=white)
-![Hexagonal Architecture](https://img.shields.io/badge/-HexagonalArchitecture-000?&logo=atom)
+![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal_Architecture-000?&logo=atom)
 ![TDD](https://img.shields.io/badge/-TDD-000?&logo=icon&logoColor=green)
 ![SOLID](https://img.shields.io/badge/-SOLID-000?&logo=solid)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-000?&logo=firebase&logoColor=green)
