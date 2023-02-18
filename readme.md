@@ -8,7 +8,7 @@
 
 :blue_heart: I've always been a great problem solver, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
 
-:octocat: I believe that technology has the power to create positive change, whether I'm coding or considering the needs of those who will be using the software, I am committed to developing and delivering efficient solutions.
+:octocat: I believe that technology has the power to create positive change, whether I'm coding or considering the needs of those who will be using the software, I am committed to developing and delivering efficient solutions!
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/)
 
