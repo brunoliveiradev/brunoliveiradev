@@ -10,7 +10,13 @@
 
 :octocat: I believe that technology has the power to create positive change, whether I'm coding or considering the needs of those who will be using the software, I am committed to developing and delivering efficient solutions!
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/brunoliveiradev/)
+📫 Reach me: 
+<br>
+<div align="left" style="text-align:center">
+  <a href = "mailto:brunohenrique256@duck.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunoliveiradev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
 
 <br>
 
@@ -63,18 +69,16 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 
-
-<br>
-
-<br>
-
 ## 😂 And in case you need a laugh, here's a joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-## Some Holopin Badges 🦖🎖
-[![@brunoliveiradev's Holopin board](https://holopin.io/api/user/board?user=brunoliveiradev)](https://holopin.io/@brunoliveiradev)
-
+<div style="width: 50%; text-align:center;">
+  <h2>Some Holopin Badges 🦖🎖</h2>
+  <a href="https://holopin.io/@brunoliveiradev" style="display: inline-block;">
+    <img width="70%" src="https://holopin.io/api/user/board?user=brunoliveiradev" alt="@brunoliveiradev's Holopin board">
+  </a>
+</div>
 
 <!---
 brunoliveiradev/brunoliveiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
