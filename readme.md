@@ -2,7 +2,7 @@
 
 👋 Hey there, I'm a software engineer with a passion for problem-solving and a background in mechanical engineering.
 
-🔧 I know my way around Java, Spring, AWS, databases, and more. I've got experience in banking, financial services, and IT industries and as example I've led the implementation of microservices for TED, internal transfer, and PIX, as well as build the PIX in installments. 
+🔧 I know my way around Java, Spring, AWS, databases, and more. I've got experience in banking, financial services, and IT industries and for example, I played an integral role in developing some cool stuff like microservices for TED, internal transfers, and PIX, as well as helping out every step of the way in the development of PIX in installments from the very beginning.
 
 🧙‍♂️ I'm a Harry Potter and Star Wars fan, who is passionate about learning and creating positive change through technology.
 
@@ -12,8 +12,8 @@
 
 📫 Reach me: 
 <br>
-<div align="left" style="text-align:center">
-  <a href = "mailto:brunohenrique256@duck.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+<div align="left">
+  <a href="mailto:brunohenrique256@duck.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunoliveiradev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
@@ -21,7 +21,7 @@
 <br>
 
 
-## **🛠 Tools I know, always learning** 🧠
+## **🛠 Here are some of the tools I use and continue to learn** 🧠
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=red)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -69,14 +69,40 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 
+<br>
+
+<div align="center" style="text-align:center; display: flex; flex-wrap: wrap; width: 100%;">
+  <a href="#" style="flex: 1;">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunoliveiradev&hide=contribs,issues&layout=compact&count_private=true&show_icons=true&theme=radical&hide_border=true">
+  </a>
+  
+  <a href="#" style="flex: 1;">
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoliveiradev&theme=radical&hide_border=true">
+  </a>
+  
+  <a href="#" style="flex: 1;">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&layout=compact&hide=javascript,html,handlebars,css&show_icons=true&theme=radical&hide_border=true">
+  </a>  
+</div>
+<br>
+
+
+
 ## 😂 And in case you need a laugh, here's a joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <a href="#" style="display: inline-block">
+    <img width="60%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+  </a>
+</div>
+ 
+ 
 
 
-<div style="width: 50%; text-align:center;">
-  <h2>Some Holopin Badges 🦖🎖</h2>
+
+## Some Holopin Badges 🦖🎖
+<div align="center" style="text-align:center">
   <a href="https://holopin.io/@brunoliveiradev" style="display: inline-block;">
-    <img width="70%" src="https://holopin.io/api/user/board?user=brunoliveiradev" alt="@brunoliveiradev's Holopin board">
+    <img width="65%" src="https://holopin.io/api/user/board?user=brunoliveiradev" alt="@brunoliveiradev's Holopin board">
   </a>
 </div>
 
