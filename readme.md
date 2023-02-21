@@ -87,7 +87,6 @@
 <br>
 
 
-
 ## 😂 And in case you need a laugh, here's a joke!
 <div align="center">
   <a href="#" style="display: inline-block">
@@ -95,9 +94,6 @@
   </a>
 </div>
  
- 
-
-
 
 ## Some Holopin Badges 🦖🎖
 <div align="center" style="text-align:center">
