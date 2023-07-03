@@ -4,7 +4,7 @@
 
 🔧 I know my way around Java, Spring, AWS, databases, and more. I've got experience in banking, financial services, and IT industries and for example, I played an integral role in developing some cool stuff like microservices for TED, internal transfers, and PIX, as well as helping out every step of the way in the development of PIX in installments from the very beginning.
 
-🧙‍♂️ I'm a Harry Potter and Star Wars fan, who is passionate about learning and creating positive change through technology.
+🧙‍♂ I'm a Harry Potter and Star Wars fan, who is passionate about learning and creating positive change through technology.
 
 :blue_heart: I've always been a great problem solver, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
 
