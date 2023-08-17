@@ -28,6 +28,7 @@
 ## **🛠 Here are some of the tools I use and continue to learn** 🧠
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=red)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
 
