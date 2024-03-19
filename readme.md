@@ -2,14 +2,11 @@
 
 👋 Hey there, I'm a software engineer with a passion for problem-solving and a background in mechanical engineering.
 
-🔧 I know my way around Java, Spring, AWS, databases, and more. I've got experience in banking, financial services, and IT industries and for example, I played an integral role in developing some cool stuff like microservices for TED, internal transfers, and PIX, as well as helping out every step of the way in the development of PIX in installments from the very beginning.
+🔧 I know my way around Go, Java, Spring, AWS, databases, and more. I've got experience in banking, financial services, and IT industries and for example, I played an integral role in developing some cool stuff like microservices for TED, internal transfers, and PIX, as well as helping out every step of the way in the development of PIX in installments from the very beginning.
 
 🧙‍♂ I'm a Harry Potter and Star Wars fan, who is passionate about learning and creating positive change through technology.
 
 :blue_heart: I've always been a great problem solver, and faced with a continuous search for learning and resources to solve the most varied problems, I ended up finding myself in the world of development. 
-
-🤓 I'm always practicing: 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/brunoliveiradev/) 
 
 :octocat: I believe that technology has the power to create positive change, whether I'm coding or considering the needs of those who will be using the software, I am committed to developing and delivering efficient solutions!
 
@@ -24,6 +21,10 @@
 
 <br>
 
+🤓 LeetCode profile: 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=LeetCode)](https://leetcode.com/brunoliveiradev/) 
+
+<br>
 
 ## **🛠 Here are some of the tools I use and continue to learn** 🧠
 
@@ -86,7 +87,6 @@
   </a>  
 </div>
 <br>
-
 
 ## 😂 And in case you need a laugh, here's a joke!
 <div align="center">
