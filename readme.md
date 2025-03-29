@@ -79,11 +79,7 @@
 
 <div align="center" style="text-align:center; display: flex; flex-wrap: wrap; width: 100%;"> 
   <a href="#" style="flex: 1;">
-    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=brunoliveiradev&theme=radical&hide_border=true">
-  </a>
-  
-  <a href="#" style="flex: 1;">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&layout=compact&hide=javascript,html,handlebars,css&show_icons=true&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoliveiradev&layout=compact&hide=javascript,html,handlebars,css,typescript,r,shell&show_icons=true&theme=radical">
   </a>  
 </div>
 <br>
