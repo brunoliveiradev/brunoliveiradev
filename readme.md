@@ -28,7 +28,7 @@
 
 ## **🛠 Here are some of the tools I use and continue to learn** 🧠
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=oracle&logoColor=red)
+![Java](https://img.shields.io/badge/-Java-000?&logo=intellijidea&logoColor=red)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
@@ -41,7 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=MySQL&logoColor=white)
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=F90)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)
 ![DynamoDb](https://img.shields.io/badge/-DynamoDB-000?logo=amazondynamodb&logoColor=F90)
 ![AmazonRDS](https://img.shields.io/badge/-AmazonRDS-000?logo=amazonrds&logoColor=F90)
 ![Lambda](https://img.shields.io/badge/-Lambda-000?logo=awslambda&logoColor=F90)
